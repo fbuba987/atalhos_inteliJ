@@ -50,3 +50,6 @@
 - Ctrl + / ou Ctrl + Shift + /: Comentar código
 - Ctrl + Shift + Alt + T: Métodos de refatoração
 - Ctrl + Alt + O: Reajustar imports da classe (remove imports não utilizados)
+
+
+[Assistência de Codificação Inteligente](https://www.jetbrains.com/lp/intellij-frameworks/)
